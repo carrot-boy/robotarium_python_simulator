@@ -1,2 +1,3 @@
 first comment try to play with the barrier-certificates.py file
-play with this code and first try to modify
+play with this code and first try to modify change servious variables
+
