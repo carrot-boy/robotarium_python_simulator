@@ -1,4 +1,11 @@
 first comment try to play with the barrier-certificates.py file
 play with this code and first try to modify change servious variables
 need to do more changes
+git clone
+add file 
+git status
+git add .
+git commit -m "message"
+git status
+git push 
 
